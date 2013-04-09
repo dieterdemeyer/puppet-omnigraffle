@@ -1,3 +1,0 @@
-fixtures:
-  symlinks:
-    "omnigraffle": "#{source_dir}"
