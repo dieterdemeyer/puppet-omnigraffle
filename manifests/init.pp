@@ -5,7 +5,7 @@
 #  include omnigraffle
 class omnigraffle {
   package { 'OmniGraffle':
-    provider => 'appdmg',
-    source   => 'https://yum.cegeka.be/osx_packages/OmniGraffle-5.4.2.dmg',
+    provider => 'appdmg_eula',
+    source   => 'http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGraffle-5.4.3.dmg'
   }
 }
