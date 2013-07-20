@@ -8,6 +8,7 @@ Install [OmniGrafle](http://www.omnigroup.com/products/omnigraffle/), diagrammin
 
 ```puppet
 include omnigraffle
+include omnigraffle::pro
 ```
 
 ## Required Puppet Modules
