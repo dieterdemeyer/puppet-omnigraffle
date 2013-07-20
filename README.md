@@ -1,4 +1,6 @@
-# OmniGraffle Puppet Module for Boxen [![Build Status](https://travis-ci.org/boxen/puppet-omnigraffle.png)](https://travis-ci.org/boxen/puppet-omnigraffle)
+# OmniGraffle Puppet Module for Boxen
+
+[![Build Status](https://travis-ci.org/boxen/puppet-omnigraffle.png)](https://travis-ci.org/boxen/puppet-omnigraffle)
 
 Install [OmniGrafle](http://www.omnigroup.com/products/omnigraffle/), diagramming, charting, and visualization software for Mac OS X.
 
